@@ -1,6 +1,6 @@
 ## Assignment
  The point was to parse out all the identifiers in a C file and insert them into a binary tree.
-A repeated identifier would have its line number inserted into the queue of the corresponding node of the tree.
+A repeated identifier would have its line number inserted into the queue of the corresponding node in the tree.
 
 ## Sample Output
 ```
