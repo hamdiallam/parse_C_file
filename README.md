@@ -3,8 +3,8 @@
 A repeated identifier would have its line number inserted into the queue of the corresponding node of the tree.
 
 ## Sample Output
+```
 Cross reference listing made at:  Mon Nov 29 15:19:30 2004
-
 
 FILE                   19   20   21   22   32   55   90   
 MAXCITIES               5   18   
@@ -156,3 +156,4 @@ writeAveragesToOutput  22   26   90
 95    :         fprintf(fout, "%s %-5.1f\n", highTemps[i].statecity,
 96    :                  (float) highTemps[i].tempsum/highTemps[i].count);
 97    : }
+``` 
